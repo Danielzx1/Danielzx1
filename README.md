@@ -1,70 +1,35 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Daniel%20Oliveira&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Front-end&descAlignY=60&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Daniel%20Oliveira&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Full-Stack&descAlignY=60&descColor=8b949e" width="100%"/>
 </div>
 
----
+### 👋 Olá, eu sou o Daniel!
 
-## 👋 Olá, eu sou o Daniel!
-
-```js
+```javascript
 const daniel = {
-  nome:       "Daniel Oliveira",
-  username:   "Danielzx1",
-  foco:       ["Front-end", "Web Development"],
-  tecnologias: ["JavaScript", "HTML5", "CSS3"],
-  atualmente: "Construindo projetos web e evoluindo todo dia 🚀"
+  nome:        "Daniel Oliveira",
+  username:    "Danielzx1",
+  foco:        ["Front-end", "Integrações Back-end", "Web Development"],
+  tecnologias: ["JavaScript", "HTML5", "CSS3", "Firebase", "Git"],
+  atualmente:  "Desenvolvendo meu TCC (Hydrogen Pro) e evoluindo projetos web todo dia 🚀"
 };
+
 ```
 
----
+### 🛠️ Stack & Tecnologias
 
-## 🛠️ Stack & Tecnologias
+### 📌 Projetos em destaque
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</div>
+| 📁 Projeto | 📝 Descrição | 🛠️ Tecnologias |
+| --- | --- | --- |
+| **[Hydrogen Pro (TCC)](https://www.google.com/search?q=)** | Dashboard web completo para monitoramento de sistemas físicos, controle de nível de baterias e reservatórios em tempo real. | `JavaScript`, `HTML`, `CSS`, `Firebase` |
+| **[Hours Pro](https://www.google.com/search?q=)** | Web App com responsividade mobile para rastrear horas de trabalho e tempo de stream, incluindo visualização em gráficos dinâmicos. | `JavaScript`, `HTML`, `CSS` |
+| **[Bot Discord - Autom.](https://www.google.com/search?q=)** | Bot personalizado para servidores de GTA RP, focado na automação de Relatórios de Ocorrência (R.O.), envio de imagens e registro de horas. | `Node.js`, `Discord.js` |
+| **[Portfólio Equipe](https://www.google.com/search?q=)** | Portfólio colaborativo feito em equipe, focado em UI/UX e estruturação ágil. | `JavaScript`, `HTML`, `CSS` |
+| **[Calculadora Web](https://www.google.com/search?q=)** | Calculadora web interativa e funcional, ideal para treinar a lógica de operadores lógicos. | `HTML`, `CSS`, `JS` |
 
----
+> *Nota: Você pode adicionar os links reais dos seus repositórios nos colchetes vazios `()` de cada projeto acima na tabela!*
 
-## 📌 Projetos em destaque
+### 📊 GitHub Stats
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [portifolio-equipe](https://github.com/Danielzx1/portifolio-equipe) | Portfólio colaborativo feito em equipe | JavaScript |
-| [Projeto_calculadora](https://github.com/Danielzx1/Projeto_calculadora) | Calculadora web funcional | HTML |
-| [Projeto_Tcc](https://github.com/Danielzx1/Projeto_Tcc) | Projeto de TCC | JavaScript |
-| [projeto](https://github.com/Danielzx1/projeto) | Projeto pessoal | CSS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Danielzx1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielzx1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielzx1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-  <a href="https://github.com/Danielzx1">
-    <img src="https://img.shields.io/badge/GitHub-Danielzx1-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>Feito com 💙 por Daniel Oliveira</sub>
-</div>
+### 📫 Contato
