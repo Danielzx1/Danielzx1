@@ -7,7 +7,7 @@
 
 ```javascript
 const daniel = {
-  nome:        "Daniel Oliveira",
+  nome:        "Daniel Oliveira Silva",
   username:    "Danielzx1",
   foco:        ["Front-end", "Integrações Back-end", "Web Development"],
   tecnologias: ["JavaScript", "HTML5", "CSS3", "Firebase", "Git"],
